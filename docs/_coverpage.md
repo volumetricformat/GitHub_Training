@@ -1,6 +1,6 @@
-![logo](./img/cover.png ':no-zoom')
+![logo](./img/vfa logo.png ':no-zoom')
 
-# [The Official GitHub Training Manual](01_getting_ready_for_class)
+# [VFA Training Manual](01_getting_ready_for_class)
 
 [English](01_getting_ready_for_class)
 [日本語](/ja/)
