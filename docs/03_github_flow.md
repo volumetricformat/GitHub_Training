@@ -1,7 +1,7 @@
 ## Understanding the GitHub flow
 
 In this section, we discuss the collaborative workflow enabled by GitHub 
-  - [An interactive review of the GitHub Workflow](flowhttps://guides.github.com/introduction/flow/)
+  - [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)
 
 ### The Essential GitHub Workflow
 
