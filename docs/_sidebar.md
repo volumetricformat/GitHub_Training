@@ -7,7 +7,7 @@
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
-  - [Adding Comments to Pull Request](08_Adding Comments to Pull Request.md)
+  - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
 
 - 2: How to Work Locally
