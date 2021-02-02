@@ -11,9 +11,15 @@
   - [Merging Pull Requests](09_merging_pull_requests.md)
 
 - 2: How to Work Locally
+  - [Create a Local Repo](18_create_local_repo.md)
+  - [Fixing Commit Mistakes](19_fixing_commit_mistakes.md)
+  - [Forgot to branch?](19_forgot_to_branch.md)
+  - [Rewriting History with Git Reset](20_rewriting_history_git_reset.md)
+  - [Cherry Picking](21_git_cherry_pick.md)
+  - [Merge Strategies](22_merge_strategies_rebase.md)
   - [Local History](10_local_history.md)
   - [Local Git Configs](05_local_git_configs.md)
-  - [Working Locally](06_working_locally.md)
+  - [Working Locally quick start](06_working_locally.md)
 
 - 2: Dealing with Merge Conflicts
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
@@ -28,14 +34,6 @@
   - [Tags & Releases](17_tags_and_releases.md)
   - [Working Group - Workflow Discussion](17_workflow_discussion.md)
   - [Streamline Workflow with Aliases](11_streamline_workflow_with_aliases.md)
-
-- 4: Working with a Local Repository
-  - [Create a Local Repo](18_create_local_repo.md)
-  - [Fixing Commit Mistakes](19_fixing_commit_mistakes.md)
-  - [Forgot to branch?](19_forgot_to_branch.md)
-  - [Rewriting History with Git Reset](20_rewriting_history_git_reset.md)
-  - [Cherry Picking](21_git_cherry_pick.md)
-  - [Merge Strategies](22_merge_strategies_rebase.md)
 
 - Appendix
   - **Tool tips**
