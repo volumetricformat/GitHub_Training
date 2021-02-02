@@ -4,7 +4,7 @@
   - [GitHub Flow](03_github_flow.md)
 
 - 1: Basic Functionality
-  - [Fork and Pull Workflow and Multiple Remotes](app_fork_workflow.md)
+  - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
   - [Editing Files on GitHub](08_edit_on_github.md)
