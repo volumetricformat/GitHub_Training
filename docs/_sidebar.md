@@ -7,7 +7,7 @@
   - [Fork and Pull Workflow and Multiple Remotes](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
-  - [Editing on GitHub](08_edit_on_github.md)
+  - [Editing Files on GitHub](08_edit_on_github.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
   - [Local History](10_local_history.md)
   - [Local Git Configs](05_local_git_configs.md)
