@@ -1,4 +1,4 @@
-## Collaborating on Your Code
+## Creating a Pull Request
 Now that you have made some changes in the project locally, let's learn how to push your changes back to the shared class repository for collaboration.
 
 ### Pushing Your Changes to GitHub
