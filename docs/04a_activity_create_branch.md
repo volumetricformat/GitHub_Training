@@ -1,7 +1,5 @@
 ### Activity: Creating A Branch with GitHub
 
-Earlier you created an issue about the file you would like to edit. Let's create the branch you will use to edit your file.
-
 Follow these steps to create a new branch in the class repository:
 
 > You will need to have collaborator access on the class repository before you can create a branch on GitHub.
