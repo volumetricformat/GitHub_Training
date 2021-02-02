@@ -19,7 +19,7 @@ git push
 
 [include](07a_activity_create_pull_request.md ':include')
 
- - [PR Review](https://seanmcilroy29.github.io/training-manual/#/07_Pushing_your_changes?id=activity-PR-Review)
+ - [PR Review](https://seanmcilroy29.github.io/training-manual/#/07_Pushing_your_changes?id=activity-PR-Review) - One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
 
 ### Exploring a Pull Request
 Now that we have created a Pull Request, let's explore a few of the features that make Pull Requests the center of collaboration:
