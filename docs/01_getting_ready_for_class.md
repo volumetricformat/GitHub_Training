@@ -1,6 +1,6 @@
-## Getting Ready for Class
+## Getting Ready to work with VFA 
 
-While you are waiting for class to begin, please take a few minutes to set up your local work environment.
+Please take a few minutes to set up your local work environment.
 
 <!-- toc -->
 
@@ -20,7 +20,7 @@ You can set up your free account by following these steps:
 
 If you already have an account, verify that you can visit github.com within your organization's network.
 
-GitHub is designed to run on the current versions of all major browsers. Take a look at our list of [supported browsers](https://docs.github.com/github/getting-started-with-github/supported-browsers).
+GitHub is designed to run on the current versions of all major browsers.
 
 ### Step 2: Install Git
 
@@ -40,8 +40,6 @@ git version 2.11.0
 ```
 
 In general, we recommend you stay within two minor versions of the [latest version](https://git-scm.com/downloads) of Git. The minor version is the second number in the series `x.x.x`.
-
-We suggest having version [2.29.2](https://github.com/git-for-windows/git/releases/tag/v2.29.2.windows.2) or more recent if you're using Git for Windows or Git Bash.
 
 #### Downloading and Installing Git
 
@@ -129,9 +127,4 @@ _**Note:** If you are working on a Mac, you will need to Install Shell Commands 
 
 ---
 
-### Exploring
-
-Congratulations! You should now have a working version of Git and a text editor on your system. If you still have some time before class begins, here are some interesting resources you can check out:
-
-- **[github.com/explore](https://www.github.com/explore)** - Explore is a showcase of interesting projects in the GitHub Universe. See something you want to re-visit? Star the repository to make it easier to find later.
-- **[lab.github.com](https://lab.github.com)** - The Learning Lab bot will guide you through projects and provide feedback right from your GitHub repository, helping you build every step of the way.
+**Congratulations!** You should now have a working version of Git and a text editor on your system. If you still have some time before class begins, here are some interesting resources you can check out:
