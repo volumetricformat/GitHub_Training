@@ -4,21 +4,20 @@
   - [GitHub Flow](03_github_flow.md)
 
 - 1: Basic Functionality
+  - [Fork and Pull Workflow and Multiple Remotes](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
-  - [Local Git Configs](05_local_git_configs.md)
-  - [Working Locally](06_working_locally.md)
-  - [Collaborating on Code](07_collaborating_on_code.md)
+  - [Creating a Pull Request](07_collaborating_on_code.md)
   - [Editing on GitHub](08_edit_on_github.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
   - [Local History](10_local_history.md)
-  - [Streamline Workflow with Aliases](11_streamline_workflow_with_aliases.md)
+  - [Local Git Configs](05_local_git_configs.md)
+  - [Working Locally](06_working_locally.md)
 
 - 2: Dealing with Merge Conflicts
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
   - [Resolving merge Conflicts](12b_resolving_merge_conflicts.md)
 
 - 3: Additional GitHub Functionality
-  - [Workflow Review](13_workflow_review_project_github_games.md)
   - [Protected Branches & CODEOWNERS](17_protected_branches.md)
   - [Git Bisect](14_git_bisect.md)
   - [Reverting Commits](15_reverting_commits.md)
@@ -26,6 +25,7 @@
   - [Viewing Local Changes](17_view_local_changes.md)
   - [Tags & Releases](17_tags_and_releases.md)
   - [Working Group - Workflow Discussion](17_workflow_discussion.md)
+  - [Streamline Workflow with Aliases](11_streamline_workflow_with_aliases.md)
 
 - 4: Working with a Local Repository
   - [Create a Local Repo](18_create_local_repo.md)
@@ -37,9 +37,8 @@
 
 - Appendix
   - **GitHub Resources**
-    - [Day 1 Activity Instructions](app_Day_1_activities.md)
-    - [Day 2 Activity Instructions](app_day2_mergeconflict.md)
-    - [Fork and Pull Workflow and Multiple Remotes](app_fork_workflow.md)
+    - [Add a Caption To an Existing Slide](app_Day_1_activities.md)
+    - [Merge Conflict Practice](app_day2_mergeconflict.md)
     - [End of Training: Cleaning Loaner PCs](App_clean_loaner_pc.md)
   - **Tool tips**
     - [Add your human-readable name](app_add_human_readable_name.md)
