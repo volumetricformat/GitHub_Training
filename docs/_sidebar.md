@@ -6,10 +6,11 @@
 - 1: Basic Functionality
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
-  - [Operations with Issues](Operations_with_Issues.md)
-  - [Creating a Pull Request](07_Pushing_your_changes.md)
+  - [Creating an Issue](Creating_an_Issue.md)
+  - [Creating a Pull Request](07_Pushing_your_changes)
   - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
+  - [Add a File](add_a_file.md)
 
 - 2: How to Work Locally
   - [Create a Local Repo](18_create_local_repo.md)
@@ -38,7 +39,6 @@
 
 - Appendix
   - **Tool tips**
-    - [Creating your README](Creating_your_README.md)
     - [Add your human-readable name](app_add_human_readable_name.md)
     - [How to Generate Jekyll Sites Locally](app_how_to_generate_locally.md)
     - [Add Branch to Terminal Prompt](app_git_branch_in_terminal.md)
