@@ -1,4 +1,4 @@
-## Getting Started With VFA Collaboration
+## Getting Started for VFA Collaboration
 Even if you have used GitHub in the past, we hope this information will provide a baseline understanding of how to use it to build better software!
 
 ### What is GitHub?
