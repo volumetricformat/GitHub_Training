@@ -1,13 +1,10 @@
 ## Merging Pull Requests
-
 Now that you have made the requested changes, your pull request should be ready to merge.
 
 ### Merge Explained
-
 When you merge your branch, you are taking the content and history from your feature branch and adding it to the content and history of the `main` branch.
 
 ![Merging Pull Requests](./img/merging-prs.png)
-
 Many project teams have established rules about who should merge a pull request.
 
 - Some say it should be the person who created the pull request since they will be the ones to deal with any issues resulting from the merge.
@@ -17,8 +14,7 @@ Many project teams have established rules about who should merge a pull request.
 This is a discussion you should have with the other members of your team.
 
 ### Merging Your Pull Request
-
-Let's take a look at how you can merge the pull request.
+How you can merge the pull request.
 
 1. Navigate to your Pull Request (HINT: Use the Author or Assignee drop downs to find your Pull Request quickly)
 1. Click *Conversation*
@@ -34,7 +30,6 @@ Let's take a look at how you can merge the pull request.
 - **Rebase and merge:** This option will take all of the commits and replay them as if they just happened. This allows GitHub to perform a fast forward merge (and avoids the addition of the merge commit).
 
 ### Updating Your Local Repository
-
 When you merged your Pull Request, you deleted the branch on GitHub, but this will not automatically update your local copy of the repository. Let's go back to our command line application and get everything in sync.
 
 First, we need to get the changes we made on GitHub into our local copy of the repository:
