@@ -30,10 +30,6 @@ In addition to being a place to host and share your Git projects, GitHub provide
 
 Git features cheap local branching, convenient staging areas, and multiple workflows.
 
-As we begin to discuss Git (and what makes it special) it would be helpful if you could forget everything you know about other version control systems (VCSs) for just a moment. Git stores and thinks about information very differently than other VCSs.
-
-We will learn more about how Git stores your code as we go through this class, but the first thing you will need to understand is how Git works with your content.
-
 #### Snapshots, not Deltas
 
 One of the first ideas you will need understand is that Git does not store your information as series of changes. Instead Git takes a snapshot of your repository at a given point in time. This snapshot is called a commit.
@@ -48,19 +44,12 @@ Branches are an essential concept in Git.
 
 When you create a new branch in Git, you are actually just creating a pointer that corresponds to the most recent commit in a line of work. Git keeps the commits for each branch separate until you explicitly tell it to merge those commits into the main line of work.
 
-#### Git is Explicit
-
-Which brings us to our final point for now; Git is very explicit. It does not do anything until you tell it to. No auto-saves or auto-syncing with the remote, Git waits for you to tell it when to take a snapshot and when to send that snapshot to the remote.
 
 ### Exploring a GitHub Repository
 
 A repository is the most basic element of GitHub. It is easiest to imagine as a project's folder. However, unlike an ordinary folder on your laptop, a GitHub repository offers simple yet powerful tools for collaborating with others.
 
 A repository contains all of the project files (including documentation), and stores each file's revision history. Whether you are just curious or you are a major contributor, knowing your way around a repository is essential!
-
-### User Accounts vs. Organization Accounts
-
-There are two account types in GitHub, user accounts and organization accounts. While there are many differences in these account types, one of the more notable differences is how you handle permissions.
 
 #### User Accounts
 
@@ -70,7 +59,7 @@ When you signed up for GitHub, you were automatically given a user account. Perm
 
 Organization accounts provide more granular control over repository permissions. In an organization account you create teams of people and then give those teams access to specific repositories. Permissions can be assigned at the team level (e.g, read, write, or admin).
 
-### Repository Navigation
+### Glossary Repository Navigation
 
 #### Code
 
@@ -91,14 +80,6 @@ Projects allow you to visualize your work with Kanban style boards. Projects can
 #### Wiki
 
 Wikis in GitHub can be used to communicate project details, display user documentation, or almost anything your heart desires. And of course, GitHub helps you keep track of the edits to your Wiki!
-
-#### Pulse
-
-Pulse is your project's dash board. It contains information on the work that has been completed and the work in progress.
-
-#### Graphs
-
-Graphs provide a more granular view into the repository activity, including who has contributed, when the work is being done, and who has forked the repository.
 
 #### README.md
 
