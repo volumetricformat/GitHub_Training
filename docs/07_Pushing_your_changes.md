@@ -47,7 +47,7 @@ When you are making line comments, you can also choose to **Start a Review**. Wh
 One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
 
 1. Click the **Pull Request** tab.
-1. Use the **Author** drop down to locate your partner's pull request.
+1. Use the **Author** drop down to locate your pull request.
 1. Click the **Files Changed** tab.
 1. Hover over a single line in the file to see the blue +. Click the + to add a line comment.
 1. Comment on the line and click **Start a review**.
