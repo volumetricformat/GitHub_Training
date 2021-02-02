@@ -7,8 +7,10 @@
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Branching with Git](04_branching_with_git.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
-  - [Editing Files on GitHub](08_edit_on_github.md)
+  - [Adding Comments to Pull Request](08_Adding Comments to Pull Request.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
+
+- 2: How to Work Locally
   - [Local History](10_local_history.md)
   - [Local Git Configs](05_local_git_configs.md)
   - [Working Locally](06_working_locally.md)
@@ -36,10 +38,6 @@
   - [Merge Strategies](22_merge_strategies_rebase.md)
 
 - Appendix
-  - **GitHub Resources**
-    - [Add a Caption To an Existing Slide](app_Day_1_activities.md)
-    - [Merge Conflict Practice](app_day2_mergeconflict.md)
-    - [End of Training: Cleaning Loaner PCs](App_clean_loaner_pc.md)
   - **Tool tips**
     - [Add your human-readable name](app_add_human_readable_name.md)
     - [How to Generate Jekyll Sites Locally](app_how_to_generate_locally.md)
