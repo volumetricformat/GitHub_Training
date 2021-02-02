@@ -5,18 +5,12 @@ Please take a few minutes to set up your local work environment.
 <!-- toc -->
 
 ### Step 1: Set Up Your GitHub.com Account
-
-For this class, we will use a public account on GitHub.com. We do this for a few reasons:
-
-- We don't want you to "practice" in repositories that contain real code.
-- We are going to break some things so we can teach you how to fix them. (therefore, refer to the bullet above)
-
 You can set up your free account by following these steps:
 
-1. Access GitHub.com and click Sign up.
-1. Choose the free account.
-1. You will receive a verification email at the address provided.
-1. Click the link to complete the verification process.
+1. Access GitHub.com and click [Sign up](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
+2. Choose the free account.
+3. You will receive a verification email at the address provided.
+4. Click the link to complete the verification process.
 
 If you already have an account, verify that you can visit github.com within your organization's network.
 
