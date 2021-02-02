@@ -1,4 +1,4 @@
-![logo](./img/vfa logo.png ':no-zoom')
+![logo](./img/vfa logo.PNG ':no-zoom')
 
 # [VFA Training Manual](01_getting_ready_for_class)
 
