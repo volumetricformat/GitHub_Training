@@ -1,12 +1,10 @@
 ## Getting Started With VFA Collaboration
 
-We will start by introducing you to Git, GitHub, and the collaboration features we will use throughout the class. Even if you have used GitHub in the past, we hope this information will provide a baseline understanding of how to use it to build better software!
+Even if you have used GitHub in the past, we hope this information will provide a baseline understanding of how to use it to build better software!
 
 ### What is GitHub?
 
-GitHub is a collaboration platform built on top of a distributed version control system called Git. GitHub is focused on developers, the people who code and create software. Our focus is also the people who partner with and employ developers, who are encouraging them to build amazing things.
-
-We do all we can to help unlock the creativity of developers and to foster a community of developers that can come together—as individuals and in teams—to create the future of software and make a difference in the world.
+GitHub is a collaboration platform built on top of a distributed version control system called Git. 
 
 GitHub concentrates on three things:
 
@@ -14,24 +12,12 @@ GitHub concentrates on three things:
 - Nurturing a community for developers; a safe and collaborative place that facilitates sharing, amplifies creativity, and supports the principles of open source
 - Providing access, opening up a community of opportunity, where new developers can be born and where experienced developers can hone their skills and expand their knowledge
 
-![GitHub's beloved Octocat logo](./img/github-icon.jpg)
-
 In addition to being a place to host and share your Git projects, GitHub provides a number of features to help you and your team collaborate more effectively. These features include:
 
 - Issues
 - Pull Requests
 - Projects
 - Organizations and Teams
-
-![GitHub Collaboration Features](./img/collaboration-features.png)
-
-### The GitHub Ecosystem
-
-Rather than force you into a "one size fits all" ecosystem, GitHub strives to be the place that brings all of your favorite tools together. For more information on integrations, check out <https://github.com/integrations>.
-
-![The GitHub Integrations Directory](./img/github-ecosystem.png)
-
-You may even find some new, indispensable tools to help with continuous integration, dependency management, code quality and much more.
 
 ### What is Git?
 
@@ -71,8 +57,6 @@ Which brings us to our final point for now; Git is very explicit. It does not do
 A repository is the most basic element of GitHub. It is easiest to imagine as a project's folder. However, unlike an ordinary folder on your laptop, a GitHub repository offers simple yet powerful tools for collaborating with others.
 
 A repository contains all of the project files (including documentation), and stores each file's revision history. Whether you are just curious or you are a major contributor, knowing your way around a repository is essential!
-
-![GitHub Repositories](./img/repository-intro.png)
 
 ### User Accounts vs. Organization Accounts
 
