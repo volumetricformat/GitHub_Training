@@ -1,20 +1,22 @@
 ## Understanding the GitHub flow
 
 In this section, we discuss the collaborative workflow enabled by GitHub 
-  - [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)
+  
+  **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
 
 ### The Essential GitHub Workflow
 
-![GitHub Workflow](./img/github-workflow.png)
+![GitHub Workflow](./img/gitflow.png)
 
 The GitHub flow is a lightweight workflow that allows you to experiment with new ideas safely, without fear of compromising a project.
 
-Branching is a key concept you will need to understand. Everything in GitHub lives on a branch. By default, the "blessed" or "canonical" version of your project lives on a branch called `main`.
+**Branching** 
 
-As you make changes to the files within the project, you will commit your changes to the feature branch.
+When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
-When you are ready to start a discussion about your changes, you will open a pull request. A pull request doesn't need to be a perfect work of art - it is meant to be a starting point that will be further refined and polished through the efforts of the project team.
+```
+Top Tip
+Branching is a core concept in Git, and the entire GitHub flow is based upon it. There's only one rule: anything in the main branch is always deployable.
 
-When the changes contained in the pull request are approved, the feature branch is merged onto the main branch. In the next section, you will learn how to put this GitHub workflow into practice.
-
-
+Because of this, it's extremely important that your new branch is created off of main when working on a feature or a fix. Your branch name should be descriptive (e.g., refactor-authentication, user-content-cache-key, make-retina-avatars), so that others can see what is being worked on.
+```
