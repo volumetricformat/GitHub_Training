@@ -3,6 +3,7 @@
 **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
   
 ![GitHub Workflow](./img/gitflow.PNG)
+
 1. [Create Branch](#Create_Branch) 
 2. [Commit Changes](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=add-commits)
 3. [Open Pull Request](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=open-pull-request)
