@@ -29,17 +29,16 @@ These are the possible options:
 1. Visual Studio Code
      There are multiple editors, Visual Studio Code is a free source-code editor,  which features will 
      assist you in your editing work. It can be downloaded [here](https://code.visualstudio.com/Download).
-     
-- Current Repository Repository that it is currently uploaded to the tool
+
 You can select any of the forked repos, clone, create new or add existing ones
 The tool will automatically fork a repo if you start a Pull Request in a repo where you don’t have write access.
-- **Changes (tab)** From here you can decide how you are going to work with the files: using an external editor, open them in your Finder or Explorer or in GitHub
-- **History (tab)** All the changes applied to the repo
-- **Current Branch**
-- **Origin** Normally it refers to repos in your Personal GitHub.com account 
-- **Upstream** Normally it refers to repos in OMP GitHub.com account
-- **Fork** When a repo in OMP GitHub.com account is copied to your Personal GitHub.com account
-- **Clone** When a repo is copied to the working directory in your laptop (local)
 
-  **   
+  - **Changes (tab)** From here you can decide how you are going to work with the files: using an external editor, open them in your Finder or Explorer or in GitHub
+  - **History (tab)** All the changes applied to the repo
+  - **Current Branch**
+  - **Origin** Normally it refers to repos in your Personal GitHub.com account 
+  - **Upstream** Normally it refers to repos in OMP GitHub.com account
+  - **Fork** When a repo in OMP GitHub.com account is copied to your Personal GitHub.com account
+  - **Clone** When a repo is copied to the working directory in your laptop (local)
+
      
