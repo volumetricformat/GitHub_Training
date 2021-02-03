@@ -5,7 +5,7 @@ Now that you have made some changes you now need to push your changes back to th
 
 >Review - When you are making line comments, you can also choose to **Start a Review**. When you create a review, you can group many line comments together with a general message: Comments, Approve, or Request Changes. Reviews have special power in GitHub when used in conjunction with protected branches.
 
-### Activity: PR Review
+### PR Review
 One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
 
 1. Click the **Pull Request** tab.
