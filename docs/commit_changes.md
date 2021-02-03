@@ -3,7 +3,6 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 
 ![Commits](./img/commits.PNG)
 
-![GitHub Workflow](./gifs/add_commits.gif)
 
 1. Click the file to be changed.
 1. Click the  pencil icon in the upper right corner of the file view to edit.
@@ -12,3 +11,5 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 1. Click **Commit changes** button.
 
 > These changes will be made to just the file on your ```feature_branch``` selected, so now this branch contains content that’s different from the ```master```.
+
+![GitHub Workflow](./gifs/add_commits.gif)
