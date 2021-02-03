@@ -2,12 +2,14 @@
   - [GitHub 101](github_101.md)
   - [Creating a GitHub account](01_creating_an_account.md)
   - [GitHub Flow](03_github_flow.md)
+  - [GitHub Functionality](github_functionality.md)
+  - [GitHub Flavoured Markdown](github_flavoured_markdown.md)
   - [Git 101](02_git_101.md)
 
 - 1: Basic Functionality
   - [Fork and Pull Workflow](app_fork_workflow.md)
+  - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
-  - [Creating a Feature Branch](04_creating_a_branch.md)
   - [Commit Changes](commit_changes.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
   - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
