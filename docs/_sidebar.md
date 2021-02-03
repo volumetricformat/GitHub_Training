@@ -8,6 +8,7 @@
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
+  - [Commit Changes](commit_changes.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
   - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
   - [Merging Pull Requests](09_merging_pull_requests.md)
