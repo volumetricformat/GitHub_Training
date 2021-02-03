@@ -6,7 +6,7 @@ These are the possible options:
 ### A. Create an empty file as a placeholder, then copy and paste the content into the new file
 
 1. Choose a branch and click **Create new file**
-1. Complete file name, title, content &description
+1. Complete file name, title, content & description
 1. Click **Propose new file**
 1. Click **Create a pull request**
 ```Note: Make sure that you choose the correct destination branch```
