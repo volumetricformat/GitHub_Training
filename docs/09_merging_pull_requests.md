@@ -13,11 +13,12 @@ Appointed Working Group **Chairs/Vice Chairs** merge all submitted PRs for Worki
 How you can merge the pull request.
 
 1. Navigate to your Pull Request (HINT: Use the Author or Assignee drop downs to find your Pull Request quickly)
-1. Click *Conversation*
-1. Scroll to the bottom of the Pull Request and click the *Merge pull request* button
-1. Click *Confirm merge*
-1. Click *Delete branch*
-1. Click *Issues* and confirm your original issue has been closed
+1. Click **Conversation**
+1. Scroll to the bottom of the Pull Request and click the **Merge pull request** button
+1. Click **Confirm merge**
+1. Click **Delete branch**
+1. Click **Issues** and confirm your original issue has been closed
+![Merging Pull Requests](./gifs/merge.gif)
 
 ### Updating Your Local Repository
 When you merged your Pull Request, you deleted the branch on GitHub, but this will not automatically update your local copy of the repository. Let's go back to our command line application and get everything in sync.
