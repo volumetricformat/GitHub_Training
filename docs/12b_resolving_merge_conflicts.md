@@ -2,17 +2,28 @@
 
 Let's try to create a merge conflict, and fix it together. You and a partner will each create separate branches, create a file with the same name, and then try to merge. The first will merge cleanly, the second will have a merge conflict. Work together to resolve the merge conflict.
 
-1. In our class repository, create the branch that you will be working on and name it something memorable like `USERNAME-conflict`.
-1. Choose a file that both you and your partner will edit. (One of your files from earlier would work well.) On your branch, edit that file. The file name must be the same file name that your partner uses. Make sure the content inside of the file is different, and that neither file is empty.
-1. Create a pull request in the class repository with `base: main` and `compare: USERNAME-conflict`.
-1. You will see that the _first_ pull request can merge well.
-1. When you see the merge conflict in the _second_ pull request, work together to resolve the merge conflict.
-    1. Working locally, merge `main` into the feature branch.
-    1. When you see there's a conflict, that's OK! The files that have conflicts are listed under `Unmerged Paths`. Type `git status` to verify which file has the conflict.
-    1. Open that file in your text editor, and look for the merge conflict markers. (`<<<<<<<`, `=======`, `>>>>>>>`)
-    1. Both branches' versions of code are present - pick which one you want to keep, and save the changes.
-    1. Add and commit the saved changes to resolve the merge conflict.
-    1. Push the feature branch up to the remote, and see the resolution in the pull request.
-1. Merge the pull request.
+1. Under your repository name, click  Pull requests.
+1. In the "Pull Requests" list, click the pull request with a merge conflict that you'd like to resolve.
+1. Near the bottom of your pull request, click Resolve conflicts.
+>Tip: If the Resolve conflicts button is deactivated, your pull request's merge conflict is too complex to resolve on GitHub. You must resolve the merge conflict using an alternative Git client, or by using Git on the command line. 
+4. Decide if you want to keep only your branch's changes, keep only the other branch's changes, or make a brand new change, which may incorporate changes from both branches. Delete the conflict markers <<<<<<<, =======, >>>>>>> and make the changes you want in the final merge.
+5. If you have more than one merge conflict in your file, scroll down to the next set of conflict markers and repeat steps four and five to resolve your merge conflict.
+6. Once you've resolved all the conflicts in the file, click Mark as resolved.
+7. If you have more than one file with a conflict, select the next file you want to edit on the left side of the page under "conflicting files" and repeat steps four through seven until you've resolved all of your pull request's merge conflicts.
+8. Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
+9. If prompted, review the branch that you are committing to.
 
-> What is a merge message? In this example, we are doing a recursive merge. A recursive merge creates a new commit that permanently records the point in time when these two branches were merged together. We will talk more about Git merge strategies a little later.
+If you choose to create a new branch, enter a name for the branch.
+
+If the head branch of your pull request is protected you must create a new branch. You won't get the option to update the protected branch.
+
+Click Create branch and update my pull request or I understand, continue updating BRANCH. The button text corresponds to the action you are performing.
+
+If the head branch is the default branch of the repository, you can choose either to update this branch with the changes you made to resolve the conflict, or to create a new branch and use this as the head branch of the pull request.
+10. To merge your pull request, click Merge pull request. For more information about other pull request merge options, see "Merging a pull request."
+
+
+
+
+
+
