@@ -1,14 +1,11 @@
 ## Understanding the GitHub flow
 
-In this section, we discuss the collaborative workflow enabled by GitHub 
-  
 **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
-
+  
 ![GitHub Workflow](./img/gitflow.PNG)
 
+### The Essential GitHub Workflow - 
 The GitHub flow is a lightweight workflow that allows you to experiment with new ideas safely, without fear of compromising a project.
-
-### The Essential GitHub Workflow
 1. **Branching** 
 
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
