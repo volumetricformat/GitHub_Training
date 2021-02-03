@@ -1,5 +1,5 @@
 ## GitHub 101
-GitHub is a web-based, version control system which uses Git, the open-source version control software. It provides a place for developers to host and share their projects — a space to save earlier iterations, collaborate with other developers, show off their skills, and see what their peers are working on.
+GitHub is a web-based, version control system which uses [Git](02_git_101.md), the open-source version control software. It provides a place for developers to host and share their projects — a space to save earlier iterations, collaborate with other developers, show off their skills, and see what their peers are working on.
 
 One of the reasons developers are so reliant on GitHub is because diligent versioning is essential to the quality of their work, their ability to deliver on time, and their sanity. When multiple developers are working on a single project, two coders working off of different versions can potentially waste countless hours of time working on components that will ultimately be incompatible and require even more hours of extra work to reconcile.
 
