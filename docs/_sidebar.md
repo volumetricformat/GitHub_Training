@@ -6,7 +6,7 @@
 
 - 1: Basic Functionality
   - [Fork and Pull Workflow](app_fork_workflow.md)
-  - [Branching with Git](04_branching_with_git.md)
+  - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
   - [Creating a Pull Request](07_Pushing_your_changes)
   - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
