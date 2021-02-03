@@ -7,7 +7,7 @@ When you merge your branch, you are taking the content and history from your fea
 ![Merging Pull Requests](./img/merging-prs.png)
 
 ### Rules about who should merge a pull request.
-Appointed Working Group **Chairs/Vice Chairs** merge all submitted PRs for Working Approval to ensure consistency.
+**ONLY** Appointed Working Group **Chairs/Vice Chairs** can merge submitted PRs for Working Approval to ensure consistency.
 
 ### Merging Your Pull Request
 How you can merge the pull request.
