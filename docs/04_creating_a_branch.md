@@ -12,10 +12,12 @@ Follow these steps to create a new branch in the class repository:
 
 > You will need to have collaborator access on the class repository before you can create a branch on GitHub.
 
+![Creating a Branch](./gifs/create_a_new_branch.gif)
+
 1. Navigate to **Code** tab of the class repository.
 1. Click the *branch dropdown*.
 1. Enter the branch name 'github-username-caption'.
-1. Press `Enter`.
+1. Select the blue Create branch box or hit **Enter** on your keyboard.
 
 When you create a new branch on GitHub, you are automatically switched to your branch. Now, any changes you make to the files in the repository will be applied to this new branch.
 
