@@ -2,7 +2,7 @@
 
 In this section, we discuss the collaborative workflow enabled by GitHub 
   
-  **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
+**Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
 
 ![GitHub Workflow](./img/gitflow.PNG)
 
