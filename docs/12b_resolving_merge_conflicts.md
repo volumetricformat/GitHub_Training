@@ -21,9 +21,3 @@ Click Create branch and update my pull request or I understand, continue updatin
 
 If the head branch is the default branch of the repository, you can choose either to update this branch with the changes you made to resolve the conflict, or to create a new branch and use this as the head branch of the pull request.
 10. To merge your pull request, click Merge pull request. For more information about other pull request merge options, see "Merging a pull request."
-
-
-
-
-
-
