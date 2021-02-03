@@ -1,8 +1,8 @@
 - Getting Started
   - [GitHub 101](github_101.md)
   - [Creating a GitHub account](01_creating_an_account.md)
-  - [Getting Started](02_getting_started.md)
   - [GitHub Flow](03_github_flow.md)
+  - [Git 101](02_git_101.md)
 
 - 1: Basic Functionality
   - [Fork and Pull Workflow](app_fork_workflow.md)
