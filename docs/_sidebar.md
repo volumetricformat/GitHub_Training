@@ -1,5 +1,6 @@
 - Getting Started
-  - [Getting Ready for VFA](01_getting_ready_for_class.md)
+  - [GitHub 101](github_101.md)
+  - [Creating a GitHub account](01_creating_an_account.md)
   - [Getting Started](02_getting_started.md)
   - [GitHub Flow](03_github_flow.md)
 
