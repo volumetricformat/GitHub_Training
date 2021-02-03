@@ -1,25 +1,22 @@
 ## Creating a Pull Request
 Now that you have made some changes in the project locally, let's learn how to push your changes back to the shared class repository for collaboration.
 
-### Pushing Your Changes to GitHub
-![Pushing to GitHub](./img/push-pull.png)
-
-In this case, our remote is GitHub.com, but this could also be your company's internal instance of GitHub Enterprise.
-
-To push your changes to GitHub, you will use the command:
-
-```sh
-git push
-```
-
-> When you push, you will be asked to enter your GitHub username and password. If you would like Git to remember your credentials on this computer, you can cache your credentials using:
-
-- Windows: `git config --global credential.helper wincred`
-- Mac: `git config --global credential.helper osxkeychain`
-
 [include](07a_activity_create_pull_request.md ':include')
 
- - [PR Review](https://seanmcilroy29.github.io/training-manual/#/07_Pushing_your_changes?id=activity-PR-Review) - One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
+### Activity: PR Review
+One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
+
+1. Click the **Pull Request** tab.
+2. Use the **Author** drop down to locate your pull request.
+3. Click the **Files Changed** tab.
+4. Hover over a single line in the file to see the blue +. Click the + to add a line comment.
+5. Comment on the line and click **Start a review**.
+6. Add additional line comments to the pull request.
+7. Click **Review changes** in the top right corner.
+8. Choose whether to **Approve** or **Request changes**
+9. Enter a general comment for the review.
+10. Click **Submit review**
+11. Click the **Conversation** tab to check out your completed review.
 
 ### Exploring a Pull Request
 Now that we have created a Pull Request, let's explore a few of the features that make Pull Requests the center of collaboration:
@@ -46,20 +43,18 @@ In the **Files changed** tab, you can hover over a line to see a blue ![`+`][oct
 When you are making line comments, you can also choose to **Start a Review**. When you create a review, you can group many line comments together with a general message: Comments, Approve, or Request Changes. Reviews have special power in GitHub when used in conjunction with protected branches.
 
 
-### Activity: PR Review
-One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
+### Pushing Your Changes to GitHub
 
-1. Click the **Pull Request** tab.
-2. Use the **Author** drop down to locate your pull request.
-3. Click the **Files Changed** tab.
-4. Hover over a single line in the file to see the blue +. Click the + to add a line comment.
-5. Comment on the line and click **Start a review**.
-6. Add additional line comments to the pull request.
-7. Click **Review changes** in the top right corner.
-8. Choose whether to **Approve** or **Request changes**
-9. Enter a general comment for the review.
-10. Click **Submit review**
-11. Click the **Conversation** tab to check out your completed review.
+To push your changes to GitHub, you will use the command:
+
+```sh
+git push
+```
+
+> When you push, you will be asked to enter your GitHub username and password. If you would like Git to remember your credentials on this computer, you can cache your credentials using:
+
+- Windows: `git config --global credential.helper wincred`
+- Mac: `git config --global credential.helper osxkeychain`
 
 [octicon-comment-discussion]:https://unpkg.com/octicons/build/svg/comment-discussion.svg
 
