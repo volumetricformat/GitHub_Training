@@ -3,17 +3,17 @@
 **Click here to for [An interactive review of the GitHub Workflow](https://guides.github.com/introduction/flow/)**
   
 ![GitHub Workflow](./img/gitflow.PNG)
-1. **Create Branch** 
-2. **Commit Changes**
-3. **Open Pull Request**
-4. **Discuss and review your code**
-5. **Deploy/test changes**
-6. **Merge branch**
+1. [Create Branch](#Create_Branch) 
+2. [Commit Changes](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=add-commits)
+3. [Open Pull Request](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=open-pull-request)
+4. [Discuss and review your code](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=discuss-and-review-your-code)
+5. [Deploy/test changes](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=deploy)
+6. [Merge branch](https://seanmcilroy29.github.io/training-manual/#/03_github_flow?id=merge)
 
-## The Essential GitHub Workflow - 
+## [The Essential GitHub Workflow](#the_essential_gitHub_workflow) 
 The GitHub flow is a lightweight workflow that allows you to experiment with new ideas safely, without fear of compromising a project.
 
-###  Branching
+###  Create Branch
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
 ```
