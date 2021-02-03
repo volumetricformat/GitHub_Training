@@ -7,6 +7,8 @@ Other conversations are more suitable for discussions. You can use discussions t
   - Issues can be used to keep track of bugs, enhancements, or other requests.
   - People with read permissions can create an issue in a repository where issues are enabled.
   - You can open a new issue based on code from an existing pull request. 
+  
+![GitHub Workflow](./gifs/create_an_issue.gif)
 
 Step
 1. On GitHub, navigate to the main page of the repository.
