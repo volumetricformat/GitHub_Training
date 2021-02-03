@@ -12,7 +12,7 @@ You can set up your free account by following these steps:
 3. You will receive a verification email at the address provided.
 4. Click the link to complete the verification process. 
 
-```To gain access to the VFA repository please forward your GitHub account name to helpdesk@volumetricformat.org```
+> To gain access to the VFA repository please forward your GitHub account name to helpdesk@volumetricformat.org
 
 GitHub is designed to run on the current versions of all major browsers.
 
