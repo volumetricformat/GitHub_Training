@@ -1,8 +1,8 @@
-## Oops, I forgot to create a branch
+# Oops, I forgot to create a branch
 
 If you begin working, but you are still on `main`, don’t panic! Changes aren't “on” a branch until they are committed. Your working directory and staging area are attached to `HEAD`, _not_ a branch. So, you can change branches, and any changes that are not committed will come with you.
 
-### Activity: Create a branch after making changes
+## Activity: Create a branch after making changes
 
 1. Modify file before creating branch
    - _Notice that the working directory and staging area are portable - files sitting in each area will remain there when you switch branches!_
