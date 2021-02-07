@@ -1,8 +1,8 @@
-## Fixing Commit Mistakes
+# Fixing Commit Mistakes
 
 In this activity, we will begin to explore some of the ways Git and GitHub can help us shape our project history.
 
-### Revising Your Last Commit
+## Revising Your Last Commit
 
 `git commit --amend` allows us to make changes to the commit that HEAD is currently pointing to. Two of the most common uses are:
 
