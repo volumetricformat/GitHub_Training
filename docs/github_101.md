@@ -1,14 +1,14 @@
-## GitHub 101
+# GitHub 101
 GitHub is a web-based, version control system which uses [Git](02_git_101.md), the open-source version control software. It provides a place for developers to host and share their projects — a space to save earlier iterations, collaborate with other developers, show off their skills, and see what their peers are working on.
 
 One of the reasons developers are so reliant on GitHub is because diligent versioning is essential to the quality of their work, their ability to deliver on time, and their sanity. When multiple developers are working on a single project, two coders working off of different versions can potentially waste countless hours of time working on components that will ultimately be incompatible and require even more hours of extra work to reconcile.
 
 Version control is also important for solo developers. Having an organized library of previous versions can be a lifesaver when you need to track down the origin of a new bug in the code.
 
-### How Do I speak GitHub?
+## How Do I speak GitHub?
 If you want to know what your work colleague are saying, you’re going to have to familiarize yourself with some [GitHub-specific jargon](https://help.github.com/en/articles/github-glossary).
 
-### Repository
+## Repository
 Sometimes shortened to just “repo,” repositories are the essential elements of GitHub. Repositories contain all of the files and revision histories for each project hosted on GitHub. It’s sort of like the file folders on a computer. Repositories can be either public or private, and multiple users can work collaboratively within a single repository.
 
 ### Branch
@@ -32,7 +32,7 @@ For an even wider organizational view, GitHub has project boards. Made up of iss
 ## Pull/push
 Merging changes made to the repository files into the local copy you’re working on is called “pulling.” A “push” is the reverse, of course — updating the repository files with changes you’ve made to your local copy.
 
-### Pull requests
+## Pull requests
 When you want to make changes to a repository you’re working on as part of a collaborative project, you send a “pull request.” The other users can then approve or deny your request, or keep them contained to a separate branch. Pull requests are generally where you’ll find a feedback loop during the development cycle. Other developers review your code, find bugs, suggest changes, discuss its quality and implementation, and more.
 
 ### Versioning
