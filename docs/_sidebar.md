@@ -16,7 +16,7 @@
   - [Merging Pull Requests](09_merging_pull_requests.md)
   - [Add a File](add_a_file.md)
 
-- Dealing with Merge Conflicts
+- **Dealing with Merge Conflicts**
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
   - [Resolving merge Conflicts](12b_resolving_merge_conflicts.md)
   
