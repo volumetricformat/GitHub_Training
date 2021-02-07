@@ -1,4 +1,4 @@
-- Getting Started with GitHub
+- **Getting Started with GitHub**
   - [Creating a GitHub account](01_creating_an_account.md)
   - [GitHub 101](github_101.md)
   - [GitHub Flow](03_github_flow.md)
@@ -6,7 +6,7 @@
   - [GitHub Flavoured Markdown](github_flavoured_markdown.md)
   - [Git 101](02_git_101.md)
 
-- Basic GitHub Functionality
+- **Basic GitHub Functionality**
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
@@ -20,7 +20,7 @@
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
   - [Resolving merge Conflicts](12b_resolving_merge_conflicts.md)
   
-- How to Work Locally
+- **How to Work Locally**
   - [Create a Local Repo](18_create_local_repo.md)
   - [Fixing Commit Mistakes](19_fixing_commit_mistakes.md)
   - [Forgot to branch?](19_forgot_to_branch.md)
@@ -31,7 +31,7 @@
   - [Local Git Configs](05_local_git_configs.md)
   - [Working Locally quick start](06_working_locally.md)
 
-- Additional GitHub Functionality
+- **Additional GitHub Functionality**
   - [Protected Branches & CODEOWNERS](17_protected_branches.md)
   - [Git Bisect](14_git_bisect.md)
   - [Reverting Commits](15_reverting_commits.md)
@@ -41,7 +41,7 @@
   - [Working Group - Workflow Discussion](17_workflow_discussion.md)
   - [Streamline Workflow with Aliases](11_streamline_workflow_with_aliases.md)
 
-- Appendix
+- **Appendix**
   - **Tool tips**
     - [Add your human-readable name](app_add_human_readable_name.md)
     - [How to Generate Jekyll Sites Locally](app_how_to_generate_locally.md)
