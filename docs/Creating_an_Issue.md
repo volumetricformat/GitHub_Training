@@ -1,4 +1,4 @@
-## About Issues
+# About Issues
 You can collect user feedback, report software bugs, and organize tasks you'd like to accomplish with issues in a repository. Issues can act as more than just a place to report software bugs.
 
 Other conversations are more suitable for discussions. You can use discussions to ask and answer questions, share information, make announcements, and conduct or participate in conversations about a project. 
@@ -22,7 +22,7 @@ Step
 
 Issues can also be assigned to other users, tagged with labels for quicker searching, and grouped together with milestones.
 
-### Creating a Label
+## Creating a Label
 Step
 1. On GitHub, navigate to the main page of the repository.
 1. Under your repository name, click  **Issues** or  **Pull requests**.
@@ -33,7 +33,7 @@ Step
 1. Optionally, to customize the color of your label, edit the hexadecimal number, or click the **refresh button** for another random selection.
 1. To save the new label, click **Create label**.
 
-### Applying labels to issues and pull requests - GitHub provides default labels in every new repository. You can use these default labels to help create a standard workflow in a repository.
+## Applying labels to issues and pull requests - GitHub provides default labels in every new repository. You can use these default labels to help create a standard workflow in a repository.
 
 1. On GitHub, navigate to the main page of the repository.
 1. Under your repository name, click  **Issues** or  **Pull requests**.
