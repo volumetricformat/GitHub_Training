@@ -1,4 +1,4 @@
-## Fork and Pull Workflow
+# Fork and Pull Workflow
 
 Let's distinguish between a few vocabulary words in Git and discuss a common workflow that involves forking.
 
@@ -10,17 +10,17 @@ When we create branches, we can create them on our local **clone** _and_ on the 
 
 ![Clone vs Branch vs Fork](./img/clone-branch-fork.png)
 
-###  A **fork** 
+##  A **fork** 
 Is a remote copy of a repository with a different owner. When you have a new remote **fork**, you would refer to the parent remote as **upstream**.
 
 ![Fork Workflow](./img/origin-upstream.png)
 
-### cloned the fork, 
+## cloned the fork, 
 You would refer to your own fork as **origin**, and the parent as **upstream**.
 
 ![Fork Workflow](./img/fork-from.png)
 
-### Return work back to the **origin** or **upstream** repositories
+## Return work back to the **origin** or **upstream** repositories
 You would push back to **origin**, then open a pull request between the remote forks.
 
 ![Fork Workflow](./img/fork-to.png)
