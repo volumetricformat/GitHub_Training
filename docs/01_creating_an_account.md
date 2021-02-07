@@ -1,3 +1,6 @@
+
+![logo](./img/vfa_logo.PNG ':no-zoom')
+
 # Getting Ready to work with VFA 
 
 Please take a few minutes to set up your local work environment.
