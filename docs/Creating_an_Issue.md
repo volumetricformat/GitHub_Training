@@ -33,7 +33,9 @@ Step
 1. Optionally, to customize the color of your label, edit the hexadecimal number, or click the **refresh button** for another random selection.
 1. To save the new label, click **Create label**.
 
-## Applying labels to issues and pull requests - GitHub provides default labels in every new repository. You can use these default labels to help create a standard workflow in a repository.
+## Applying labels to issues and pull requests 
+
+GitHub provides default labels in every new repository. You can use these default labels to help create a standard workflow in a repository.
 
 1. On GitHub, navigate to the main page of the repository.
 1. Under your repository name, click  **Issues** or  **Pull requests**.
