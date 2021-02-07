@@ -1,4 +1,4 @@
-### Initializing a New Local Repository
+# Initializing a New Local Repository
 
 Let's create a local repository that we can use to practice the next set of commands.
 
