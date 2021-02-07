@@ -1,11 +1,11 @@
-## GitHub Flavoured Markdown
+# GitHub Flavoured Markdown
 
 What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 - [DOWNLOAD PDF CHEATSHEET](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-### Gists
+## Gists
 Comments in Issues and Pull Requests
 Files with the .md or .markdown extension
 For more information, see “Writing on GitHub” in the GitHub Help.
@@ -43,7 +43,7 @@ _You **can** combine them_
   * Item 2a
   * Item 2b
 ```
-### Ordered
+## Ordered
 ```
 1. Item 1
 1. Item 2
@@ -51,7 +51,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 ```
-### Tables
+## Tables
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 ```
 First Header | Second Header
@@ -66,29 +66,29 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-### Images
+## Images
 ```
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
-### Links
+## Links
 ```
 http://github.com - automatic!
 [GitHub](http://github.com)
 ```
-### Blockquotes
+## Blockquotes
 ```
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
 ```
-### Inline code
+## Inline code
 ```
 I think you should use an
 `<addr>` element here instead.
 ```
-### GitHub Flavored Markdown
+## GitHub Flavored Markdown
 GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 
 Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
