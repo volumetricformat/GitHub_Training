@@ -1,6 +1,5 @@
 ![logo](./img/vfa_logo.PNG ':no-zoom')
 
-
 # VFA GitHub Training Manual <small>v1.0</small>
 
 [VFA GitHub Training](01_creating_an_account.md)
