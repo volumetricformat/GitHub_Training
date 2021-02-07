@@ -1,4 +1,4 @@
-## Creating a Pull Request
+# Creating a Pull Request
 Now that you have made some changes you now need to push your changes back to the shared repository for collaboration.
 
 
@@ -10,7 +10,7 @@ Now that you have made some changes you now need to push your changes back to th
 
 >Review - When you are making line comments, you can also choose to **Start a Review**. When you create a review, you can group many line comments together with a general message: Comments, Approve, or Request Changes. Reviews have special power in GitHub when used in conjunction with protected branches.
 
-### PR Review
+## PR Review
 One of the best ways to ensure code quality is to make peer reviews a part of every Pull Request.
 
 1. Click the **Pull Request** tab.
@@ -25,7 +25,7 @@ One of the best ways to ensure code quality is to make peer reviews a part of ev
 10. Click **Submit review**
 11. Click the **Conversation** tab to check out your completed review.
 
-### Exploring a Pull Request
+## Exploring a Pull Request
 Now that we have created a Pull Request, let's explore a few of the features that make Pull Requests the center of collaboration:
 
 #### ![octicon-comment-discussion] Conversation tab
@@ -43,14 +43,14 @@ To provide feedback on proposed changes, GitHub offers three levels of commentin
 #### General Conversation
 You can provide general comments on the Pull Request within the **Conversation** tab.
 
-#### Line Comments
+### Line Comments
 In the **Files changed** tab, you can hover over a line to see a blue ![`+`][octicon-diff-added] icon. Clicking this icon will allow you to enter a comment on a specific line. These line level comments are a great way to give additional context on recommended changes. They will also be displayed in the **Conversation** tab.
 
-#### Review
+## Review
 When you are making line comments, you can also choose to **Start a Review**. When you create a review, you can group many line comments together with a general message: Comments, Approve, or Request Changes. Reviews have special power in GitHub when used in conjunction with protected branches.
 
 
-### Pushing Your Changes to GitHub
+## Pushing Your Changes to GitHub
 
 To push your changes to GitHub, you will use the command:
 
