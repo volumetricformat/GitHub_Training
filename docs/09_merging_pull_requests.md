@@ -1,12 +1,12 @@
-## Merging Pull Requests
+# Merging Pull Requests
 Now that you have made the requested changes, your pull request should be ready to merge.
 
-### Merge Explained
+## Merge Explained
 When you merge your branch, you are taking the content and history from your feature branch and adding it to the content and history of the `master` branch.
 
 ![Merging Pull Requests](./img/merging-prs.png)
 
-### Rules about who should merge a pull request.
+## Rules about who should merge a pull request.
 **ONLY** Appointed Working Group **Chairs/Vice Chairs** can merge submitted PRs for Working Approval to ensure consistency.
 
 ### Merging Your Pull Request
@@ -20,7 +20,7 @@ How you can merge the pull request.
 1. Click **Issues** and confirm your original issue has been closed
 ![Merging Pull Requests](./gifs/merge.gif)
 
-### Updating Your Local Repository
+## Updating Your Local Repository
 When you merged your Pull Request, you deleted the branch on GitHub, but this will not automatically update your local copy of the repository. Let's go back to our command line application and get everything in sync.
 
 First, we need to get the changes we made on GitHub into our local copy of the repository:
@@ -30,7 +30,7 @@ First, we need to get the changes we made on GitHub into our local copy of the r
 
 `git pull` is a combination command that retrieves all of the changes from GitHub and then updates the branch you are currently on to include the changes from the remote. The two separate commands being run are `git fetch` and `git merge`
 
-### Cleaning Up the Unneeded Branches
+## Cleaning Up the Unneeded Branches
 
 If you type `git branch --all` you will probably see that, even though you deleted your branch on the remote, it is still listed in your local copy of the repository, both as a local branch and as a read-only remote tracking branch. Let's get rid of those extra branches.
 
