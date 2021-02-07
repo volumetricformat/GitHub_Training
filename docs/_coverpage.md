@@ -5,4 +5,4 @@
 [Volumetric Website](https://www.volumetricformat.org/)
 [helpdesk](mailto:helpdesk@volumetricformat.org)
 
-![color](#f6f8fa)
+![color](#f0f0f0)
