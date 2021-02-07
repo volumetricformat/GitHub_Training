@@ -1,4 +1,4 @@
-## GitHub Functionality
+# GitHub Functionality
 
 ![GitHub Workflow](./img/Github_functionality.png)
 
