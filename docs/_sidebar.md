@@ -1,10 +1,10 @@
-- 1: Getting Started with GitHub
-  - [Creating a GitHub account](01_creating_an_account.md)
-  - [GitHub 101](github_101.md)
-  - [GitHub Flow](03_github_flow.md)
-  - [GitHub Functionality](github_functionality.md)
-  - [GitHub Flavoured Markdown](github_flavoured_markdown.md)
-  - [Git 101](02_git_101.md)
+* 1: Getting Started with GitHub
+  * [Creating a GitHub account](01_creating_an_account.md)
+  * [GitHub 101](github_101.md)
+  * [GitHub Flow](03_github_flow.md)
+  * [GitHub Functionality](github_functionality.md)
+  * [GitHub Flavoured Markdown](github_flavoured_markdown.md)
+  * [Git 101](02_git_101.md)
 
 - 2: Basic GitHub Functionality
   - [Fork and Pull Workflow](app_fork_workflow.md)
