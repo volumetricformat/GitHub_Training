@@ -8,6 +8,7 @@
 
 - **Basic GitHub Functionality**
   - [Fork and Pull Workflow](app_fork_workflow.md)
+  - [Creating a Fork & Clone](03_creating_a_fork.md)
   - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
   - [Commit Changes](commit_changes.md)
