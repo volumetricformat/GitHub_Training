@@ -9,13 +9,15 @@
 - **Basic GitHub Functionality**
   - [Fork and Pull Workflow](app_fork_workflow.md)
   - [Creating a Fork & Clone](03_creating_a_fork.md)
-  - [Creating a Branch](04_creating_a_branch.md)
   - [Creating an Issue](Creating_an_Issue.md)
-  - [Commit Changes](commit_changes.md)
-  - [Creating a Pull Request](07_Pushing_your_changes)
-  - [Adding Comments to Pull Request](08_Adding_Comments_to_Pull_Request.md)
-  - [Merging Pull Requests](09_merging_pull_requests.md)
   - [Add a File](add_a_file.md)
+
+- **GitFlow Functions**
+  - [1. Creating a Branch](04_creating_a_branch.md)
+  - [2. Commit Changes](commit_changes.md)
+  - [3. Creating a Pull Request](07_Pushing_your_changes)
+  - [4. Adding Comments/Review a Pull Request](08_Adding_Comments_to_Pull_Request.md)
+  - [5. Merging Pull Requests](09_merging_pull_requests.md)
 
 - **Dealing with Merge Conflicts**
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
