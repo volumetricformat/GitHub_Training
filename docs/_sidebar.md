@@ -6,18 +6,18 @@
   - [GitHub Flavoured Markdown](github_flavoured_markdown.md)
   - [Git 101](02_git_101.md)
 
-- **Basic GitHub Functionality**
-  - [Fork and Pull Workflow](app_fork_workflow.md)
-  - [Creating a Fork & Clone](03_creating_a_fork.md)
-  - [Creating an Issue](Creating_an_Issue.md)
-  - [Add a File](add_a_file.md)
-
-- **GitFlow Functions**
+- **GitFlow Steps**
   - [1. Creating a Branch](04_creating_a_branch.md)
   - [2. Commit Changes](commit_changes.md)
   - [3. Creating a Pull Request](07_Pushing_your_changes)
   - [4. Adding Comments/Review a Pull Request](08_Adding_Comments_to_Pull_Request.md)
   - [5. Merging Pull Requests](09_merging_pull_requests.md)
+
+- **Basic GitHub Functionality**
+  - [Fork and Pull Workflow](app_fork_workflow.md)
+  - [Creating a Fork & Clone](03_creating_a_fork.md)
+  - [Creating an Issue](Creating_an_Issue.md)
+  - [Add a File](add_a_file.md)
 
 - **Dealing with Merge Conflicts**
   - [Defining a merge conflict](12a_what_is_a_merge_conflict.md)
