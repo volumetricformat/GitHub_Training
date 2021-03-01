@@ -10,3 +10,13 @@ https://volumetricformat.github.io/GitHub_Training/#/01_creating_an_account
 ├── How to Work Locally with a GitHub client
 
 ```
+
+
+What is GitHub? GitHub is a collaboration platform built on top of a distributed version control system called Git.
+
+GitHub concentrates on three things:
+
+Building a technology platform that is like no other, on which developers can create, share and grow the best code possible
+Nurturing a community for developers; a safe and collaborative place that facilitates sharing, amplifies creativity, and supports the principles of open source
+Providing access, opening up a community of opportunity, where new developers can be born and where experienced developers can hone their skills and expand their knowledge
+The content is all written in Markdown, and the scripts are shell scripts.
