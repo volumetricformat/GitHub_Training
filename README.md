@@ -1,6 +1,4 @@
-# GitHub Training Manual
-
-https://volumetricformat.github.io/GitHub_Training/#/01_creating_an_account
+# [GitHub Training Manual](https://volumetricformat.github.io/GitHub_Training/#/01_creating_an_account)
 
 ```
 ├── Getting Started with GitHub / creating an account
