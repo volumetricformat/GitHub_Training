@@ -1,5 +1,7 @@
 # [GitHub Training Manual](https://volumetricformat.github.io/GitHub_Training/#/01_creating_an_account)
 
+GitHub repositories will form the basis for all VFA Specification Development
+
 ```
 ├── Getting Started with GitHub / creating an account
 ├── GitFlow Steps to submit proposed changes
@@ -8,7 +10,6 @@
 ├── How to Work Locally with a GitHub client
 
 ```
-
 
 What is GitHub? GitHub is a collaboration platform built on top of a distributed version control system called Git.
 
